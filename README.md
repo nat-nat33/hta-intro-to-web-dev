@@ -1,4 +1,4 @@
-# hta-intro-to-programming
+# hta-intro-to-web-dev
 Intro to Programming
 
 ## What is Programming?
@@ -11,8 +11,9 @@ Everything a computer does, from browsing the internet to writing documents of p
 - Washing machines are programmed to follow different cycles. Computer code controls how hot the water is and how long the wash takes. 
 - In some cars, computer programs monitor the speed, temperature, and amount of fuel in the tank. Computer programs can even help control the breaks to keep people safe. 
 
+Resources:
+Terminal Practice - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+Git and GitHub Practice - https://try.github.io/levels/1/challenges/1
+HTML and CSS - http://www.turnwall.com/articles/html-and-css-overview/
 
-
-
-
-
+I
