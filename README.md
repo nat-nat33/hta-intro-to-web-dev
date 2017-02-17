@@ -14,6 +14,7 @@ Everything a computer does, from browsing the internet to writing documents of p
 Resources:
 Terminal Practice - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 Git and GitHub Practice - https://try.github.io/levels/1/challenges/1
+
 HTML and CSS - http://www.turnwall.com/articles/html-and-css-overview/
 
 I
